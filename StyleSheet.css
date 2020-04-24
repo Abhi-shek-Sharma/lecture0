@@ -4,3 +4,7 @@ img {
 	margin-right: auto; 
     width: 10px;
 }
+
+ol {
+	color: green;
+}
